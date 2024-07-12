@@ -1,4 +1,4 @@
-program token_syq6fmf.aleo;
+program token_samratajbasjbdas;
 
 record token:
     owner as address.private;
